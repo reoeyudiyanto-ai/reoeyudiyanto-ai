@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/reoeyudiyanto-ai">
-    <img src="https://img.shields.io/badge/Status-Building_Trading Intelligence-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Status-Trading_Intelligence-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI_Systems-blue?style=for-the-badge&logo=google-gemini" />
   <img src="https://img.shields.io/badge/Domain-FinTech-green?style=for-the-badge&logo=tradingview" />
