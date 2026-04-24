@@ -37,6 +37,7 @@ I'm currently developing **Antigravity Macro**, an evolutionary Operational Inte
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
@@ -44,9 +45,20 @@ I'm currently developing **Antigravity Macro**, an evolutionary Operational Inte
 ### 🚀 Key Projects
 
 - **[Analisa AI](https://github.com/reoeyudiyanto-ai/Analisa)**: The core repository for Antigravity Macro v3.2.
-- **[Teteh Geulish Landing Page](https://github.com/reoeyudiyanto-ai/Landingpage-TG)**: A premium, gluten-free bakery web experience built with Next.js.
+- **[Teteh Geulish Landing Page](https://github.com/reoeyudiyanto-ai/Landingpage-TG)**: More than just a website—a business growth engine implementing the **SEO & GEO Monopoly Framework**.
+    - 📍 **Local Dominance**: Hyper-local strategy with precise geolocation and Google Maps API integration.
+    - 🔍 **SEO "Big Net" Strategy**: Advanced keyword clustering and semantic content injection for maximum search visibility.
+    - 🕸️ **Structured Data**: JSON-LD implementation (LocalBusiness, Breadcrumbs) for search engine dominance.
 - **[ERP Teteh Geulish](https://github.com/reoeyudiyanto-ai/ERP-Tetehgeulish-FE)**: Integrated business management systems for F&B UMKM.
 - **[Nexora](https://github.com/reoeyudiyanto-ai/Nexora)**: Robust application infrastructure and deployment automation.
+
+---
+
+### 💼 Systems & Strategy
+Beyond code, I focus on the architecture of efficient business operations:
+- 📝 **Product Architecture**: Expert in drafting **PRD** (Product Requirement Documents) that bridge technical execution with business goals.
+- 🔄 **Process Engineering**: Skilled in **BPMN** and mapping complex **Business Process Logic Flows** to eliminate operational friction.
+- 📐 **Quality Assurance**: Experienced in **Quality Management Systems (QMS)** based on **ISO 9001** standards, ensuring systems are robust, scalable, and compliant.
 
 ---
 
