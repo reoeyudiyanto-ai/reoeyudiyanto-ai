@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/reoeyudiyanto-ai">
-    <img src="https://img.shields.io/badge/Status-Building_Antigravity-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Status-Building_Trading Intelligence-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI_Systems-blue?style=for-the-badge&logo=google-gemini" />
   <img src="https://img.shields.io/badge/Domain-FinTech-green?style=for-the-badge&logo=tradingview" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🌌 Antigravity Macro v3.2
+### 🌌 Trading Intelligence
 **Flagship AI Trading Intelligence Platform**
 
 I'm currently developing **Antigravity Macro**, an evolutionary Operational Intelligence system designed for the financial markets.
