@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Man-typing.gif" width="300" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Oghud&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </div>
 
@@ -33,7 +37,6 @@ I'm currently developing **Antigravity Macro**, an evolutionary Operational Inte
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </div>
 
 ---
@@ -56,11 +59,6 @@ I'm currently developing **Antigravity Macro**, an evolutionary Operational Inte
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reoeyudiyanto-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oghud's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoeyudiyanto-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reoeyudiyanto-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
