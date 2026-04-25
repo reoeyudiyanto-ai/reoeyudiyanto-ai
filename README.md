@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Man-typing.gif" width="300" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIFs/Man-typing.gif?raw=true" width="300" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Oghud&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Oghud;Systems+Architect;Trading+Intelligence" />
 </div>
 
 ### <div align="center">"I build systems because chaos is a terrible operating model."</div>
